@@ -1,4 +1,5 @@
 # Lecture assignment1 Try the following code:
+# You may leave only after you finalize the cod
 x = 1
 print(x != 2)
 print(x != 1)
